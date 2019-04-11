@@ -18,6 +18,7 @@ function johnLennonFacts(facts) {
   return myArray;
 }
 
+
 function iLoveTheBeatles(num) {
   let myArray = [];
   do {
@@ -26,3 +27,7 @@ function iLoveTheBeatles(num) {
   } while (num < 15);
   return myArray;
 }
+
+
+
+
